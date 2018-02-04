@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/standard-library/galvo.git"
+    "url": "git+https://github.com/standard-library/kefir-matches-media.git"
   },
   "author": "Standard Library",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/standard-library/galvo/issues"
+    "url": "https://github.com/standard-library/kefir-matches-media/issues"
   },
-  "homepage": "https://github.com/standard-library/galvo#readme",
+  "homepage": "https://github.com/standard-library/kefir-matches-media#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-preset-env": "^1.6.1",
