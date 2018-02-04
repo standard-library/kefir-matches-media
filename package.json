@@ -1,7 +1,7 @@
 {
   "name": "@standard-library/kefir-matches-media",
   "version": "0.1.1",
-  "description": "Kefir event stream wrapper around matchMedia API",
+  "description": "Kefir wrapper around matchMedia API",
   "main": "build/index.js",
   "scripts": {
     "build": "babel index.js --out-dir build",

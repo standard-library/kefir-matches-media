@@ -14,7 +14,7 @@ yarn add @standard-library/kefir-matches-media
 import matchesMedia from "@standard-library/kefir-matches-media";
 
 const isNarrow = matchesMedia(window, "(max-width: 500px)");
-# <value> true
-# ... resize browser to be narrow
-# <value> false
+// <value> true
+// ... resize browser to be narrow
+// <value> false
 ```
