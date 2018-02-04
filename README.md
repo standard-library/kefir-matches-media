@@ -1,4 +1,4 @@
-# matchesMedia
+# Kefir.matchesMedia
 
 Wraps the browser [`matchMedia` API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) in a Kefir property stream. The resulting property is the boolean value equal to the media query match.
 
