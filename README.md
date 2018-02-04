@@ -5,13 +5,13 @@ Wraps the browser [`matchMedia` API](https://developer.mozilla.org/en-US/docs/We
 ## Installation
 
 ```shell
-yarn add @standard-library/kefir-matchesMedia
+yarn add @standard-library/kefir-matches-media
 ```
 
 ## Usage
 
 ```es6
-import matchesMedia from "@standard-library/kefir-matchesMedia";
+import matchesMedia from "@standard-library/kefir-matches-media";
 
 const isNarrow = matchesMedia(window, "(max-width: 500px)");
 # <value> true
